@@ -1,0 +1,5 @@
+- multi threading
+- deploy it for web (make a web interface)
+- add fourth argument for output filename
+- add fourth column for numbers
+- make it so it can accept both internal and external account SIDs
